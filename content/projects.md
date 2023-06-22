@@ -8,7 +8,7 @@ menu:
         weight: 10
 ---
 
-### Projects & Experience
+### Projects
 
  - 2021-Present: Research on Android Application vulnerabilities & developed CTF styled challenges
  - 2022: Web and Mobile Application Vulnerability Analysis and Penetration Testing
