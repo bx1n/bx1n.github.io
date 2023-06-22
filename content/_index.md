@@ -18,9 +18,8 @@ Apart from technical work, I like to spend time travelling and exploring peacefu
 
 ### Experience
 
- - **2021-Present**: Mobile Security Lead, Traboda CyberLabs - Research on Android Application vulnerabilities & developed CTF styled challenges
+ - **2022-Present**: Mobile Security Lead, Traboda CyberLabs - Research on Android Application vulnerabilities & developed CTF styled challenges
  - **2021**: Mobile Security Researcher, Traboda CyberLabs - Web and Mobile Application Vulnerability Analysis and Penetration Testing
- - **2020**: Research Assistant at Amrita Center for Cyber Security Systems and Networks, Amrita Vishwa Vidyapeetham - research on detection of stalkerwares in Android devices
  - **2020**: Research Assistant at Amrita Center for Cyber Security Systems and Networks, Amrita Vishwa Vidyapeetham - research on detection of stalkerwares in Android devices 
  - **2015-2019** An active member of amFOSS club in the college. Mentored various junior students in contributing to open source projects
  - **2019**: Internship at NUS-Singtel Cyber Security Research Lab, School of Computing at National University of Singapore 
