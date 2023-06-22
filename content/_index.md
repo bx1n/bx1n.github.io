@@ -15,6 +15,7 @@ I'm Abhinand, known as bx1. I like computers and Android phones. I hold bachelor
 
 Apart from technical work, I like to spend time travelling and exploring peaceful and serene places. I like smartphone videography and photography. 
 
+
 ### Experience
 
  - **2021-Present**: Mobile Security Lead, Traboda CyberLabs - Research on Android Application vulnerabilities & developed CTF styled challenges
@@ -26,7 +27,7 @@ Apart from technical work, I like to spend time travelling and exploring peacefu
  - **2018**: Hackathon - Invited to attend Hackathon for Peace, Justice and Security as a part of the team amFOSS, conducted at The Hague, Netherlands
  - **2017**: Summer program - Attended summer program on Data Mining and Business Intelligence for Cyber Security at Ben-Gurion University of the Negev, Israel
  - **2017**: Google Code-In - Mentored pre-university students to take part in online contest for Wikimedia Foundation
- - **2016**: Speaker at Fedora Users and Developers Conference (FUDCon’16), on *Contributing to Open Source and use of GIT*, at Phnom Penh, Cambodia 
+ - **2016**: Speaker at Fedora Users and Developers Conference (FUDCon’16), on *Contributing to Open Source and use of git*, at Phnom Penh, Cambodia 
  - **2016**: Teaching Assistant for Android Security workshop at 7th International Summer School on Information Security and Protection (ISSISP) at Bangalore, India
  - **2016**: Organizer of MediaWikiToLearn Hackathon held at Amrita School of Engineering, Amritapuri
  - **2016**: Google Summer of Code’16 with Wikimedia Foundation
