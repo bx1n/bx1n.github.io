@@ -4,6 +4,8 @@ title = 'bx1'
 theme = 'hugo-bearblog'
 
 enableRobotsTXT = true
+publishDir = "docs"
+
 
 
 [params]
