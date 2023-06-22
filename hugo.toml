@@ -1,0 +1,28 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'bx1'
+theme = 'hugo-bearblog'
+
+enableRobotsTXT = true
+
+
+[params]
+  author = "Abhinand"
+  description = "I'm Abhinand, known as bx1. I like computers and Android phones. I hold bachelors in computer science and engineering from Amrita University. At present, I work at Traboda CyberLabs, as Mobile Security Lead."
+
+
+  title = "Mobile security researcher"
+
+
+  favicon = "images/favicon.png"
+
+  # twitter preview 
+  #images = ["images/share.png"]
+
+
+  hideMadeWithLine = true
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            hardWraps = true
