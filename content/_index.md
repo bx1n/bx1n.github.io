@@ -11,16 +11,20 @@ date: 2023-06-18T18:41:04+05:30
 
 ### About me
 
-Hey, I'm Abhinand. I work at Traboda CyberLabs, as Lead Mobile Security Engineer. I hold bachelors in computer science and engineering from Amrita University. I like computers and Android phones. 
+Working towards taking Traboda Cyberlabs to new heights. Security Researcher at Amrita Vishwa Vidyapeetham.    
 
-Apart from technical work, I like to spend time travelling and exploring peaceful and serene places. I like smartphone videography and photography. 
+Outside of tech, I love to travel and seek out peaceful spots to unwind. I’m also into smartphone videography and photography, capturing the beauty of my life journey.
 
+
+### Work 
+
+ - **2022-Present**: Lead Mobile Security Engineer, Traboda CyberLabs - Mobile Application VAPT, Mobile Security Research
+ - **2020-Present**: Security Researcher at Amrita Center for Cyber Security Systems and Networks, Amrita Vishwa Vidyapeetham 
 
 ### Experience
-
- - **2022-Present**: Lead Mobile Security Engineer, Traboda CyberLabs - Research on Android Application vulnerabilities & developed CTF styled challenges
- - **2021**: Mobile Security Engineer, Traboda CyberLabs - Web and Mobile Application Vulnerability Analysis and Penetration Testing
- - **2020**: Research Assistant at Amrita Center for Cyber Security Systems and Networks, Amrita Vishwa Vidyapeetham - research on detection of stalkerwares in Android devices 
+ - **2024** - Speaker at [bi0s-Meetup](https://www.linkedin.com/posts/abhinand-n_cybersecurity-malwareanalysis-activity-7167252770876538880-hppD) Bangalore: Hunting Stalkerwares For Fun
+ - **2023** - Speaker at [BH-MEA 2023](https://blackhatmea.com/session/androcop-one-click-forensic-investigation-data-extraction-tool-android) and [BH-EU 2023](https://www.blackhat.com/eu-23/arsenal/schedule/index.html#androcop-one-click-forensic-investigation--data-extraction-tool-35787): AndroCop: One Click Forensic Investigation & Data Extraction tool For Android
+ - **2020** - Research on stalkerwares detection mechanism in Android devices for https://stopstalkerware.org/
  - **2015-2019** An active member of amFOSS club in the college. Mentored various junior students in contributing to open source projects
  - **2019**: Internship at NUS-Singtel Cyber Security Research Lab, School of Computing at National University of Singapore 
  - **2018**: Hackathon - Invited to attend Hackathon for Peace, Justice and Security as a part of the team amFOSS, conducted at The Hague, Netherlands
