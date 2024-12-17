@@ -11,9 +11,7 @@ date: 2023-06-18T18:41:04+05:30
 
 ### About me
 
-Working towards taking Traboda Cyberlabs to new heights. Security Researcher at Amrita Vishwa Vidyapeetham.    
-
-Outside of tech, I love to travel and seek out peaceful spots to unwind. I’m also into smartphone videography and photography, capturing the beauty of my life journey.
+Working towards taking Traboda Cyberlabs to new heights. Security Researcher at Amrita Vishwa Vidyapeetham. Outside of tech, I love to travel and seek out peaceful spots to unwind. I’m also into smartphone videography and photography, capturing the beauty of life.
 
 
 ### Work 
@@ -23,7 +21,7 @@ Outside of tech, I love to travel and seek out peaceful spots to unwind. I’m a
 
 ### Experience
  - **2024** - Speaker at [bi0s-Meetup](https://www.linkedin.com/posts/abhinand-n_cybersecurity-malwareanalysis-activity-7167252770876538880-hppD) Bangalore: Hunting Stalkerwares For Fun
- - **2023** - Speaker at [BH-MEA 2023](https://blackhatmea.com/session/androcop-one-click-forensic-investigation-data-extraction-tool-android) and [BH-EU 2023](https://www.blackhat.com/eu-23/arsenal/schedule/index.html#androcop-one-click-forensic-investigation--data-extraction-tool-35787): AndroCop: One Click Forensic Investigation & Data Extraction tool For Android
+ - **2023** - Speaker at [BlackHat-MEA 2023](https://blackhatmea.com/session/androcop-one-click-forensic-investigation-data-extraction-tool-android) and [BlackHat-EU 2023](https://www.blackhat.com/eu-23/arsenal/schedule/index.html#androcop-one-click-forensic-investigation--data-extraction-tool-35787): AndroCop: One Click Forensic Investigation & Data Extraction tool For Android
  - **2020** - Research on stalkerwares detection mechanism in Android devices for https://stopstalkerware.org/
  - **2015-2019** An active member of amFOSS club in the college. Mentored various junior students in contributing to open source projects
  - **2019**: Internship at NUS-Singtel Cyber Security Research Lab, School of Computing at National University of Singapore 

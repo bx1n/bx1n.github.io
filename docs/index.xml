@@ -2,27 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bx1</title>
-    <link>https://bx1n.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on bx1</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://bx1n.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Jun 2023 11:36:17 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>https://bx1n.github.io/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Wed, 21 Jun 2023 11:36:17 +0530</pubDate>
-      
-      <guid>https://bx1n.github.io/projects/</guid>
-      <description>Projects 2021-Present: Research on Android Application vulnerabilities &amp;amp; developed CTF styled challenges 2022: Web and Mobile Application Vulnerability Analysis and Penetration Testing 2020-2021: Analyzed and reported various stalkerware applications found on Google Playstore to Coalition Against Stalkerware and Google Play 2020: Dockerizing ttyd - a terminal over the web 2019: Analysis Framework for Cisco ASA/PIX Firewall logs 2019: Data collections and analysis on DNS-over-HTTPs traffic 2018: Detecting Religious bots in Twitter using Machine Learning 2016: EditNotify extension for MediaWiki </description>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h3 id=&#34;projects&#34;&gt;Projects&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2021-Present: Mobile application vulnerability research. Mobile challenges development for CTFs&lt;/li&gt;&#xA;&lt;li&gt;2022-Present: Web and Mobile Application Vulnerability Analysis and Penetration Testing&lt;/li&gt;&#xA;&lt;li&gt;2023: AndroCop: One-click forensic investigation and data extraction tool for Android&lt;/li&gt;&#xA;&lt;li&gt;2020-2021: Analyzed and reported various stalkerware applications found on Google Playstore to Coalition Against Stalkerware and Google Play&lt;/li&gt;&#xA;&lt;li&gt;2020: Dockerizing ttyd - a terminal over the web&lt;/li&gt;&#xA;&lt;li&gt;2019: Analysis Framework for Cisco ASA/PIX Firewall logs&lt;/li&gt;&#xA;&lt;li&gt;2019: Data collections and analysis on DNS-over-HTTPs traffic&lt;/li&gt;&#xA;&lt;li&gt;2018: Detecting Religious bots in Twitter using Machine Learning&lt;/li&gt;&#xA;&lt;li&gt;2016: EditNotify extension for MediaWiki&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>404</title>
-      <link>https://bx1n.github.io/404/</link>
+      <link>http://localhost:1313/404/</link>
       <pubDate>Sun, 18 Jun 2023 18:49:07 +0530</pubDate>
-      
-      <guid>https://bx1n.github.io/404/</guid>
-      <description>404 - Page Not Found </description>
+      <guid>http://localhost:1313/404/</guid>
+      <description>&lt;h1 id=&#34;404---page-not-found&#34;&gt;404 - Page Not Found&lt;/h1&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://bx1n.github.io/sitemap.xml
+Sitemap: http://localhost:1313/sitemap.xml
