@@ -20,6 +20,8 @@ Working towards taking Traboda Cyberlabs to new heights. Security Researcher at 
  - **2020-Present**: Security Researcher at Amrita Center for Cyber Security Systems and Networks, Amrita Vishwa Vidyapeetham 
 
 ### Experience
+ - **April 2025** - Trainer at [SINCON 2025](https://www.infosec-city.com/) titled "Unlocking Android Apps: A Deep Dive into Hacking and Security"
+ - **Feb 2025** - Staff representation from India at the [Global Cybersecurity Camp (GCC)](https://gcc.ac/archive/gcc_2025/). GCC is a week-long annual international cybersecurity training program. The top 50 students from member countries gather in a host nation to exchange experiences and learn from leading cybersecurity professionals. 
  - **2024** - Speaker at [bi0s-Meetup](https://www.linkedin.com/posts/abhinand-n_cybersecurity-malwareanalysis-activity-7167252770876538880-hppD) Bangalore: Hunting Stalkerwares For Fun
  - **2023** - Speaker at [BlackHat-MEA 2023](https://blackhatmea.com/session/androcop-one-click-forensic-investigation-data-extraction-tool-android) and [BlackHat-EU 2023](https://www.blackhat.com/eu-23/arsenal/schedule/index.html#androcop-one-click-forensic-investigation--data-extraction-tool-35787): AndroCop: One Click Forensic Investigation & Data Extraction tool For Android
  - **2020** - Research on stalkerwares detection mechanism in Android devices for https://stopstalkerware.org/
