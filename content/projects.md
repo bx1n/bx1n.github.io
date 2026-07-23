@@ -10,9 +10,8 @@ menu:
 
 ### Projects
 
- - 2021-Present: Mobile application vulnerability research. Mobile challenges development for CTFs
- - 2022-Present: Web and Mobile Application Vulnerability Analysis and Penetration Testing
- - 2023: AndroCop: One-click forensic investigation and data extraction tool for Android
+ - 2025-26: Lightweight taint analysis engine with linear scanning and inter-procedural CFG analysis to detect insecure data flows + dyanmic Analysis POC verification system. 
+ - 2023-24: AndroCop: One-click forensic investigation and data extraction tool for Android
  - 2020-2021: Analyzed and reported various stalkerware applications found on Google Playstore to Coalition Against Stalkerware and Google Play
  - 2020: Dockerizing ttyd - a terminal over the web
  - 2019: Analysis Framework for Cisco ASA/PIX Firewall logs 

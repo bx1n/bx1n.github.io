@@ -11,15 +11,16 @@ date: 2023-06-18T18:41:04+05:30
 
 ### About me
 
-Working towards taking Traboda Cyberlabs to new heights. Security Researcher at Amrita Vishwa Vidyapeetham. Outside of tech, I love to travel and seek out peaceful spots to unwind. I’m also into smartphone videography and photography, capturing the beauty of life.
-
+Hobbies - professional food taster, part-time chef, and full-time photography enthusiast.
 
 ### Work 
 
- - **2022-Present**: Lead Mobile Security Engineer, Traboda CyberLabs - Mobile Application VAPT, Mobile Security Research
- - **2020-Present**: Security Researcher at Amrita Center for Cyber Security Systems and Networks, Amrita Vishwa Vidyapeetham 
+ - **2021-Present**: Lead Mobile Security Engineer, Traboda CyberLabs 
+ - **2019-Present**: Security Researcher at Amrita Center for Cyber Security Systems and Networks, Amrita Vishwa Vidyapeetham
 
 ### Experience
+ - **2026** - BSidesKerala 2026: WiredCTF and more hands-on stuff
+ - **2025** - CODE BLUE and TenguCon: Conducted WiredCTF i.e. Hands‑on Hardware, IoT and OT Security 
  - **April 2025** - Trainer at [SINCON 2025](https://www.infosec-city.com/) titled "Unlocking Android Apps: A Deep Dive into Hacking and Security"
  - **Feb 2025** - Staff representation from India at the [Global Cybersecurity Camp (GCC)](https://gcc.ac/archive/gcc_2025/). GCC is a week-long annual international cybersecurity training program. The top 50 students from member countries gather in a host nation to exchange experiences and learn from leading cybersecurity professionals. 
  - **2024** - Speaker at [bi0s-Meetup](https://www.linkedin.com/posts/abhinand-n_cybersecurity-malwareanalysis-activity-7167252770876538880-hppD) Bangalore: Hunting Stalkerwares For Fun
