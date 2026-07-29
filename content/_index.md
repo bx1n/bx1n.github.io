@@ -16,7 +16,7 @@ Hobbies - professional food taster, part-time chef, and full-time photography en
 ### Work 
 
  - **2021-Present**: Lead Mobile Security Engineer, Traboda CyberLabs 
- - **2019-Present**: Security Researcher at Amrita Center for Cyber Security Systems and Networks, Amrita Vishwa Vidyapeetham
+ - **2019-2021**: Security Researcher at Amrita Center for Cyber Security Systems and Networks, Amrita Vishwa Vidyapeetham
 
 ### Experience
  - **2026** - BSidesKerala 2026: WiredCTF and more hands-on stuff
